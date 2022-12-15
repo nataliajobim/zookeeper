@@ -1,3 +1,5 @@
+//"Rush to print"
+
 fun main() {
     println("I love animals!")
     println("Let's check on the animals...")
